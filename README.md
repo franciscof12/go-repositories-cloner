@@ -1,6 +1,6 @@
 # go-repositories-cloner 
 
-A simple CLI tool built in Go that fetches the list of repositories for a given GitHub username. The user is presented with a TUI (Text-based User Interface) from which they can navigate and select a repository to clone it to the local machine.
+A simple CLI tool built in Go that fetches the list of public repositories for a given GitHub username. The user is presented with a TUI (Text-based User Interface) from which they can navigate and select a repository to clone it to the local machine.
 <img width="958" alt="Captura de pantalla 2023-10-19 a las 23 23 19" src="https://github.com/franciscof12/go-repositories-cloner/assets/123760628/7aa63b3a-3190-49ec-81c2-c24de3bcc1de">
 <img width="748" alt="Captura de pantalla 2023-10-19 a las 23 23 38" src="https://github.com/franciscof12/go-repositories-cloner/assets/123760628/0c40b02a-5b3d-4f83-aff6-dcbe50e888ec">
 
